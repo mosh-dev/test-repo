@@ -3,4 +3,4 @@ def greet(name):
 
 
 def farewell(name):
-    return "Goodbye, " + name + ". Take care!"
+    return "Goodbye, " + name + ",Take care. See you soon!"
