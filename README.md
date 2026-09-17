@@ -6,3 +6,8 @@ A scratch repo for practising git.
 
     from greeting import greet
     print(greet("world"))
+
+## Functions
+
+- greet(name)
+- farewell(name)
